@@ -2,7 +2,7 @@
 
 10 small lessons of working with JDBC JAR and sql Data base.
 
-1.Connect_To_MySQL_Database
+1.Connect_To_MySQL_Database \n
 2.Insert_Data
 3.Update_Data
 4.Delete_Data
